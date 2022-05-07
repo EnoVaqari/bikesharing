@@ -6,7 +6,7 @@ The purpose of this project is to perform an analysis on data given by CitiBike 
 
 ## Results
 
-###Tableau Analysis
+### Tableau Analysis
 [Link to dashboard](https://public.tableau.com/app/profile/eno4254/viz/NYC_Citibike_Challenge_16518881690620/Story1)
 
 ###
