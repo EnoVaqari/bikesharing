@@ -1,6 +1,6 @@
 # Bikesharing
 
-##Project Overview
+## Project Overview
 
 The purpose of this project is to perform an analysis on data given by CitiBike in New York and to have an understanding if opening a similar business in Des Moines will be successful or not.
 
